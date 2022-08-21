@@ -6,7 +6,7 @@ require (
 	git.fd.io/govpp.git v0.5.0
 	github.com/apparentlymart/go-cidr v1.1.0
 	github.com/ghodss/yaml v1.0.0
-	github.com/go-errors/errors v1.0.1
+	github.com/go-errors/errors v1.4.2
 	github.com/namsral/flag v1.7.4-pre
 	github.com/onsi/gomega v1.19.0
 	github.com/pkg/errors v0.9.1
